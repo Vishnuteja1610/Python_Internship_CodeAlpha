@@ -163,9 +163,8 @@ Passionate about Python development and automation solutions.
 **Interests:** Software Development, Automation, Data Analytics, Game Development, AI/Chatbots
 
 ## 📧 Connect With Me
-- **GitHub:** https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main
-- **LinkedIn:** www.linkedin.com/in/ranga-sudeeksha
-- **Email:** srsudeeksha@gmail.com
+- **GitHub:** https://github.com/Vishnuteja1610/Python_Internship_CodeAlpha/tree/main
+- **Email:** vishnuteja2583@gmail.com
 
 ## 🙏 Acknowledgments
 
