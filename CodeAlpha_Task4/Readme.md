@@ -25,7 +25,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 
 ## 🚀 How to Run
 ```bash
-python basic_chatbot.py
+python CodeAlpha_BasicChatbot.py
 ```
 
 ## 💬 Conversation Categories
