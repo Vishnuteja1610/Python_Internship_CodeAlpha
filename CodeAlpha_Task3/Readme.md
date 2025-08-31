@@ -49,7 +49,7 @@ requests>=2.28.0
 pip install -r requirements.txt
 
 # Run the automation suite
-python task_automation_scripts.py
+python CodeAlpha_TaskAutomationScripts.py
 ```
 
 ## 🛠️ Automation Tasks
