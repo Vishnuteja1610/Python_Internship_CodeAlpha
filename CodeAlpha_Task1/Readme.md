@@ -78,7 +78,7 @@ Enter a letter: Y
 **CodeAlpha Python Programming Intern**
 
 ## 📧 Contact
-- GitHub: https://github.com/Vishnuteha1610/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task1
+- GitHub: https://github.com/Vishnuteja1610/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task1
 
 ---
 *This project is part of the CodeAlpha Python Programming Internship program.*
